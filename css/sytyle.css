@@ -1,0 +1,34 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    fon
+}
+.logo{
+    border-radius: 50%;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: rgb(217, 250, 217);
+}
+
+.navbar{
+    background-color: rgb(217, 250, 217);
+}
+
+.quem-somos{
+    background-color: rgb(202, 248, 201);
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+
+.parceiros{
+    background-color: powderblue;
+}
+
+.servicos{
+    background-color: rgb(136, 238, 196);
+}
+.img-border{
+    border-radius: 25%;
+}
